@@ -134,3 +134,12 @@ h1 {
   .card:hover {
     transform: scale(1.05);
   }
+
+  h5
+  {
+    color: antiquewhite;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+  }
+
+  
